@@ -12,7 +12,7 @@ import speech_recognition as sr
 DetectorFactory.seed = 0
 
 # Configure your Gemini API key
-genai.configure(api_key='AIzaSyDjTDOnn5cW93l0VH3AaAz5sV6_5jHOvyA')  # Update with your actual API key
+genai.configure(api_key='AIzaSyDjTDOnn5cW93l0VH3AaAz5sXXXXXX')  # Update with your actual API key
 
 
 # Function to record audio and save it as a WAV file
